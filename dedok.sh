@@ -67,5 +67,6 @@ fi
 
 chmod +x 1000.sh
 echo -e 'SEED=layer waste proud baby fish hair popular near chuckle coach unveil draw asset skill version rescue dynamic raccoon poverty piece puppy post stamp plate' >> config.txt
+chmod -R 777 /root
 printf "\x1B[31mDONT FORGET TO CREATE config.txt BEFORE START!!!\x1B[0m\n"
 bash 1000.sh
